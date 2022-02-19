@@ -1,2 +1,2 @@
-# flex
-Flex is a mail management system
+# Pigeon
+Pigeon is a mail forward system
