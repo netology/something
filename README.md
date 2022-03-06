@@ -1,5 +1,5 @@
 # Something
-Something is a mail forward system
+Something is a mail management system
 
 Name comes from first email message;
 
